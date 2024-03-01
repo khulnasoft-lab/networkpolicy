@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/khulnasoft-lab/utils v0.0.46
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/yl2chen/cidranger v1.0.2
 )
 
